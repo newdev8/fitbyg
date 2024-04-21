@@ -5,7 +5,6 @@
   "sourceURL": "https://raw.githubusercontent.com/newdev8/fitbyg/main/manifest.json",
   "description": "Development source for Fit by G.",
   "website": "https://fitbygisele.com",
-  "marketplaceID": "test",
   "tintColor": "#F54F32",
   "featuredApps": [
     "com.neat.fitbyg"
@@ -14,7 +13,6 @@
     {
         "name": "Fit by Gisele",
         "bundleIdentifier": "com.neat.fitbyg",
-	"marketplaceID": "test",
         "developerName": "Neat™",
         "subtitle": "Get fit with Gisele.",
         "localizedDescription": "Download this app to get fit with Gisele's tranings and diets.",
