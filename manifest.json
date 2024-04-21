@@ -29,7 +29,6 @@
     	"minOSVersion": "13.2",
     	"maxOSVersion": "17.4.1",
         "appPermissions": {},
-        "patreon": {},
     },
   ],
   "news": [],
