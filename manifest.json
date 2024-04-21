@@ -1,0 +1,37 @@
+{
+  "name": "Fit by Gisele",
+  "subtitle": "Development app",
+  "description": "Development source for Fit by G.",
+  "website": "https://fitbygisele.com",
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.neat.fitbyg"
+  ],
+  "apps": [
+    {
+        "name": "Fit by Gisele",
+        "bundleIdentifier": "com.neat.fitbyg",
+        "developerName": "Neat™",
+        "subtitle": "Get fit with Gisele.",
+        "localizedDescription": "Download this app to get fit with Gisele's tranings and diets.",
+        "iconURL": "https://example.com/myapp_icon.png",
+        "tintColor": "#F54F32",
+        "category": "lifestyle",
+        "screenshots": [],
+        "versions": [
+	    {
+    		"version": "1.0",
+    		"date": "2024-04-21",
+    		"localizedDescription": "First release",
+    		"downloadURL": "https://myapp.com/myapp-1.0.ipa",
+    		"size": 79821,
+    		"minOSVersion": "13.2",
+    		"maxOSVersion": "17.4.1"
+  	    },
+	],
+        "appPermissions": {},
+        "patreon": {},
+    },
+  ],
+  "news": [],
+}
