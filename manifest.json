@@ -12,6 +12,7 @@
   "apps": [
     {
         "name": "Fit by Gisele",
+	"marketplaceID": "test",
         "bundleIdentifier": "com.neat.fitbyg",
         "developerName": "Neat™",
         "subtitle": "Get fit with Gisele.",
