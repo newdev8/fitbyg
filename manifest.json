@@ -3,6 +3,7 @@
   "subtitle": "Development app",
   "description": "Development source for Fit by G.",
   "website": "https://fitbygisele.com",
+  "marketplaceID": "test",
   "tintColor": "#F54F32",
   "featuredApps": [
     "com.neat.fitbyg"
