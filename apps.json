@@ -2,7 +2,7 @@
   "name": "Fit by Gisele",
   "subtitle": "Development app",
   "identifier": "com.neat.store",
-  "sourceURL": "https://raw.githubusercontent.com/newdev8/fitbyg/main/manifest.json",
+  "sourceURL": "https://raw.githubusercontent.com/newdev8/fitbyg/main/apps.json",
   "description": "Development source for Fit by G.",
   "website": "https://fitbygisele.com",
   "tintColor": "#F54F32",
